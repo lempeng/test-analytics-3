@@ -258,7 +258,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-    <gwt.version>2.3.0</gwt.version>
+    <gwt.version>2.9.0</gwt.version>
     <gae.version>1.5.4</gae.version>
     <gae.application.version>test</gae.application.version>
     <gae.port>8080</gae.port>
